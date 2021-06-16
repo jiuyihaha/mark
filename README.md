@@ -13,7 +13,7 @@
 -  git merge develop
 -  git push origin main
 
--  git reset --haard bc5c(绝对版本号)
--  git reste --hard head~1(上一个版本)2(二)
--  git reflog (查看后向版本号)
+-  git reset --hard bc5c(绝对版本号)
+-  git reset --hard head~1(上一个版本)2(二)
+-  git-reflog (查看后向版本号)
 
