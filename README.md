@@ -6,6 +6,7 @@
 - 远程关联仓库，git remote add origin git@github.com:hyqyoung（用户名）/yylc_jdpm（仓库名）.git
 - 开始上传文件git push -u origin master
 ---
+-  git init
 -  git checkout -b develop
 -  git branch -a
 -  git add .
