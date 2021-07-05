@@ -3,7 +3,8 @@
 - git config --global user.email 925357950@qq.com
 - git config --global user.name "jiuyihaha"
 - git config --global url."https://github.com.cnpmjs.org/".insteadOf "https://github.com/"
-
+- 远程关联仓库，git remote add origin git@github.com:hyqyoung（用户名）/yylc_jdpm（仓库名）.git
+- 开始上传文件git push -u origin master
 ---
 -  git checkout -b develop
 -  git branch -a
